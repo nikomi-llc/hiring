@@ -22,7 +22,7 @@ purpose, but will all be developed by the same team at Nikomi.
 - Interest in learning new technologies if needed
 - Experience with Yarn and/or NPM
 
-# Application
+# Submit your Application
 
 To apply, please follow the application process below:
 
