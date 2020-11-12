@@ -26,7 +26,7 @@ purpose, but will all be developed by the same team at Nikomi.
 To apply, please follow the application process below:
 
 1. [Create your own copy][1] of this repository
-2. Fill out the details in `TBD`
+2. Fill out the details in [questions.md](questions.md)
 3. Implement the code samples following the directions in `TBD`
 4. Push your changes to GitHub, in a branch other than `main`
 5. Create a pull request to pull your changes into the `main` branch.
