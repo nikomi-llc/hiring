@@ -37,5 +37,5 @@ To apply, please follow the application process below:
 8. During review, you may be asked to make changes before merging your pull
 request.  Please make these changes in a timely manner.
 
-[1]: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template
+[1]: https://github.com/nikomi-llc/hiring/generate
 [2]: https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository
