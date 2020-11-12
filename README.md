@@ -32,11 +32,12 @@ To apply, please follow the application process below:
 4. Push your changes to GitHub, in a branch other than `main`
 5. Create a pull request to pull your changes into the `main` branch.
 *(Important: This pull request must contain **all** of your changes)*
-6. [Invite][2] `@makusnikomi` to have **collaborator** access to your repository
-7. Assign your pull request to `@makusnikomi` to review your application.
+6. [Invite][2] **[@makusnikomi][3]** to have **collaborator** access to your repository
+7. Assign your pull request to **[@makusnikomi][3]** to review your application.
 7. All applications will be reviewed within at most **72 hours**.
 8. During review, you may be asked to make changes before merging your pull
 request.  Please make these changes in a timely manner.
 
 [1]: https://github.com/nikomi-llc/hiring/generate
 [2]: https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository
+[3]: https://github.com/makusnikomi
