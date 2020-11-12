@@ -1,5 +1,8 @@
 # code-sample
 
+To run this code sample, you will need to first
+[install Yarn](https://classic.yarnpkg.com/en/docs/install).
+
 ## Build Setup
 
 ```bash
