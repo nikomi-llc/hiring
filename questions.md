@@ -1,12 +1,6 @@
-<!--
-
-Instructions
-
 Please complete each section below, providing your answer between the backtick
 (```) characters.  Each question is pre-populated with a correctly-formatted
 example response; please replace this with your own response.
-
--->
 
 # Applicant Details
 
