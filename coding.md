@@ -4,7 +4,7 @@
 
 In the [code-sample](code-sample/) directory, implement the following:
 
-1. Add a new route `/viewport` that contains the following:
+1. Add a new route `/screen-size` that contains the following:
     - The user's screen dimensions in pixels, in the format `width x height` (for
 example `800 x 600`)
     - A link to `index.vue` with the text "Back to Home"
