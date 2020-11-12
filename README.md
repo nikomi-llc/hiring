@@ -25,7 +25,7 @@ purpose, but will all be developed by the same team at Nikomi.
 
 To apply, please follow the application process below:
 
-1. [Duplicate][1] this repository to a new public or private repository
+1. [Create your own copy][1] of this repository
 2. Fill out the details in `TBD`
 3. Implement the code samples following the directions in `TBD`
 4. Push your changes to GitHub, in a branch other than `main`
@@ -38,5 +38,5 @@ application. *(Note: If your new repository is private, be sure to [invite][2]
 8. During review, you may be asked to make changes before merging your pull
 request.  Please make these changes in a timely manner.
 
-[1]: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
+[1]: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template
 [2]: https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository
