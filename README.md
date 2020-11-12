@@ -25,15 +25,14 @@ purpose, but will all be developed by the same team at Nikomi.
 
 To apply, please follow the application process below:
 
-1. [Create your own copy][1] of this repository
+1. [Create your own copy][1] of this repository in a **private repository**
 2. Fill out the details in [questions.md](questions.md)
 3. Implement the code samples following the directions in `TBD`
 4. Push your changes to GitHub, in a branch other than `main`
 5. Create a pull request to pull your changes into the `main` branch.
 *(Important: This pull request must contain **all** of your changes)*
-6. Mention `@makusnikomi` in a comment on your pull request to review your
-application. *(Note: If your new repository is private, be sure to [invite][2]
-`@makusnikomi` to have **collaborator** access to your repository)*
+6. [Invite][2] `@makusnikomi` to have **collaborator** access to your repository
+7. Assign your pull request to `@makusnikomi` to review your application.
 7. All applications will be reviewed within at most **72 hours**.
 8. During review, you may be asked to make changes before merging your pull
 request.  Please make these changes in a timely manner.
