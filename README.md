@@ -27,8 +27,8 @@ purpose, but will all be developed by the same team at Nikomi.
 To apply, please follow the application process below:
 
 1. [Create your own copy][1] of this repository in a **private repository**
-2. Fill out the details in [questions.md](questions.md)
-3. Implement the code samples following the directions in the [code-sample README](code-sample/README.md)
+2. Fill out the [application questions](questions.md)
+3. Implement the [coding exercise](coding.md)
 4. Push your changes to GitHub, in a branch other than `main`
 5. Create a pull request to pull your changes into the `main` branch.
 *(Important: This pull request must contain **all** of your changes)*
