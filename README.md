@@ -31,9 +31,9 @@ To apply, please follow the application process below:
 4. Push your changes to GitHub, in a branch other than `main`
 5. Create a pull request to pull your changes into the `main` branch.
 *(Important: This pull request must contain **all** of your changes)*
-6. Mention @makusnikomi in a comment on your pull request to review your
+6. Mention `@makusnikomi` in a comment on your pull request to review your
 application. *(Note: If your new repository is private, be sure to [invite][2]
-@makusnikomi to have **collaborator** access to your repository)*
+`@makusnikomi` to have **collaborator** access to your repository)*
 7. All applications will be reviewed within at most **72 hours**.
 8. During review, you may be asked to make changes before merging your pull
 request.  Please make these changes in a timely manner.
